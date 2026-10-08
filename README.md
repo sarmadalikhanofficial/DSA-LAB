@@ -2,14 +2,6 @@
 
 An educational collection of Java lab exercises for learning data structures and algorithms. The repository currently includes an `Array` exercise folder.
 
-## Repository Structure
-
-```text
-Array/
-├── bin/
-└── src/
-    └── array01.java
-```
 
 ## Requirements
 
@@ -23,7 +15,7 @@ Array/
 
 ### 1. Install a JDK
 
-Download and install [Java JDK 23 for Windows](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe). For the latest supported Java version, choose a JDK release compatible with your Eclipse version.
+Download and install [Java JDK 23 for Windows](https://download.oracle.com/java/23/archive/jdk-23.0.2_windows-x64_bin.exe). For the latest supported Java version, choose a JDK release compatible with your Eclipse version.
 
 ### 2. Install a JRE (optional)
 
