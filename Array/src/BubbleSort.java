@@ -1,6 +1,6 @@
 public class BubbleSort {
 	public static void main(String[] args) {
-		int[] arr = {64, 25, 12, 22, 11};
+		int[] arr = {64, 25, 24, 22, 11};
 
 		System.out.print("Starting array: ");
 		printArray(arr);
