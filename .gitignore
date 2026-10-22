@@ -12,3 +12,10 @@
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+
+/eclipse
+ecilipsefolder/
+
+eclipse/
+eclipse
