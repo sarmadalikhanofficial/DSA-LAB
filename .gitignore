@@ -4,18 +4,27 @@
 **/out/
 **/build/
 **/target/
+*.hprof
+*.jfr
+hs_err_pid*.log
+replay_pid*.log
+*.tmp
+*.bak
+*.swp
+*~
 
-# Eclipse workspace metadata
+# Eclipse workspace and generated project files
 .metadata/
 .recommenders/
+.settings/
+.apt_generated/
+.factorypath
+.externalToolBuilders/
+.classpath
+.project
 
 # OS-generated files
 .DS_Store
 Thumbs.db
-
-
-/eclipse
 ecilipsefolder/
-
 eclipse/
-eclipse
